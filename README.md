@@ -1,6 +1,26 @@
 # Organizational-Management-Software
-CheckOut Output 
-![image](https://github.com/user-attachments/assets/dee8b335-9f1f-495c-95f3-f8b5ebc06835)
-![image](https://github.com/user-attachments/assets/ef65611c-8690-40b7-bf66-203269fecf2d)
-![image](https://github.com/user-attachments/assets/1cbeeabd-9373-4a8a-bc50-39b2dcec42e8)
-![image](https://github.com/user-attachments/assets/e753e344-2830-434c-8ff7-3cc28d6d9857)
+
+This project is a GUI-based application for managing employee and department records using Python's Tkinter library and SQLite for the database. It allows users to add, update, delete, and search for employee and department details in an easy-to-use interface.
+
+## Features
+
+- **Employee Management**: Add, update, delete, and search for employee records, including details such as name, age, date of joining, email, gender, contact number, address, and department ID.
+  
+- **Department Management**: Manage department records with functionalities to add, update, delete, and search for department details, including department ID, name, location, manager, and associated employee ID.
+
+- **Project Management**: Track projects associated with employees and departments, with capabilities to add, update, delete, and search for project details including project name, start date, end date, employee ID, and department ID.
+
+- **User-Friendly Interface**: Built using Tkinter with a clean and intuitive design.
+
+## Technologies Used
+
+- Python
+- Tkinter (for GUI)
+- SQLite (for database management)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/employee-management-system.git
+   cd employee-management-system
