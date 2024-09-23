@@ -5,6 +5,8 @@ This project is a GUI-based application for managing employee and department rec
 ## Features
 
 - **Employee Management**: Add, update, delete, and search for employee records, including details such as name, age, date of joining, email, gender, contact number, address, and department ID.
+- **output**: ![image](https://github.com/user-attachments/assets/b3e291f0-852a-44f0-92e5-b3fa05fa4a8d)
+
   
 - **Department Management**: Manage department records with functionalities to add, update, delete, and search for department details, including department ID, name, location, manager, and associated employee ID.
 
